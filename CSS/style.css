@@ -1,0 +1,28 @@
+body {
+	color : #5A86BF;
+	background-color: #DCE8F2;
+	font font-family: sans-serif;
+}
+
+a {
+	color: #5A86BF;
+	text-decoration: none;
+	font-size: 24px;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+#container {
+	margin-left: 100px;
+	margin-right: 100px;
+	padding: 50px;
+}
+
+#teaser {
+	border: 1px solid black;
+	background: white;
+	padding: 50px;
+	text-align: center;
+}
